@@ -1,0 +1,2 @@
+file_path_in_repo,asset_name,author,source_url,license,license_evidence_url,download_date,format_original,format_committed,triangles,textures_max_px,sha256_committed,credits_required,notes
+game/assets/models/cars/EXAMPLE_hatchback.glb,EXAMPLE LowPoly Hatchback (template row - delete),EXAMPLE Author,https://example.invalid/pack,CC0-1.0,https://example.invalid/license-page,2026-10-28,fbx,glb,0,512,REPLACE_WITH_SHA256,no,Template only - no asset has been downloaded yet
